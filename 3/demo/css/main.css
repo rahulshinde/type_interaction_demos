@@ -1,0 +1,24 @@
+div{
+  background-color: red;
+  width: 50%;
+}
+
+h1{
+  display: block;
+  color: white;
+}
+
+.block_div{
+  display: block;
+  width: 50%;
+}
+
+.centered_block_div{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.inline_block_div{
+  display: inline-block;
+}
